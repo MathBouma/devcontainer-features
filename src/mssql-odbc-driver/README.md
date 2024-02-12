@@ -7,7 +7,7 @@ Installs the Microsoft SQL Server ODBC Driver.
 
 ```json
 "features": {
-    "ghcr.io/jlaundry/devcontainer-features/mssql-odbc-driver:1": {}
+    "ghcr.io/MathBouma/devcontainer-features/mssql-odbc-driver:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs the Microsoft SQL Server ODBC Driver.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/jlaundry/devcontainer-features/blob/main/src/mssql-odbc-driver/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/MathBouma/devcontainer-features/blob/main/src/mssql-odbc-driver/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
